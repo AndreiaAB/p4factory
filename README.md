@@ -1,4 +1,4 @@
-P4 Model Repository 
+P4 Model Repository
 ========
 
 This repository maintains a sample set of the P4 programs and allows building P4 for the P4
