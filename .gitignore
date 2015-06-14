@@ -5,3 +5,10 @@ parsetab.py
 oft.log
 *.dot
 *.png
+targets/*/*.pcap
+*behavioral-model
+targets*build/
+targets*pd_thrift/
+.idea/
+.vagrant/
+

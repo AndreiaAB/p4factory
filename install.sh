@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # installation script for ubuntu 14.04
 trap 'exit' ERR
 
