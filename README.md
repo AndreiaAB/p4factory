@@ -80,3 +80,8 @@ The relationships between tables of more complex P4 program can be difficult to 
 
 The resulting files can be viewed using xdot or with a PNG viewer.
 
+Tutorial
+========
+
+A step-by-step guide for creating, writing, and testing a P4 project. Visit, [here](https://github.com/mshahbaz/p4factory/wiki/Getting-Started:-Creating,-Writing-and-Testing-a-P4-Project).
+
